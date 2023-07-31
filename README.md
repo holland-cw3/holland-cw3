@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=holland-cw3&label=Profile%20views&color=0e75b6&style=flat" alt="holland-cw3" /> </p>
 
-- 📄 Know about my experiences [https://calebholland.org/static/media/Resume%20-%20Caleb_Holland.f799c08b06001ac00b16.pdf](https://calebholland.org/static/media/Resume%20-%20Caleb_Holland.f799c08b06001ac00b16.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/caleb-holland-0a1168211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caleb-holland-0a1168211" height="30" width="40" /></a>
