@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=holland-cw3&label=Profile%20views&color=0e75b6&style=flat" alt="holland-cw3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=holland-cw3" alt="holland-cw3" /></a> </p>
-
 - 📄 Know about my experiences [https://calebholland.org/static/media/Resume%20-%20Caleb_Holland.f799c08b06001ac00b16.pdf](https://calebholland.org/static/media/Resume%20-%20Caleb_Holland.f799c08b06001ac00b16.pdf)
 
 <h3 align="left">Connect with me:</h3>
