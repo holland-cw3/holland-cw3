@@ -66,13 +66,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=holland-cw3&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/holland-cw3/holland-cw3/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holland-cw3/holland-cw3/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holland-cw3/holland-cw3/pacman-output/pacman-contribution-graph.svg">
